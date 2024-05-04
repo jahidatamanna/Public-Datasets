@@ -4,7 +4,7 @@ List of Premium Courses: https://aiquest.org <br>
 Read the Latest Blogs on Data Science: https://aiquest.org/blog <br>
 Must Join the Facebook Group: https://facebook.com/groups/StudyMart
 
-### How to add dataset from github repository  to jupyter note book
+# How to add dataset from github repository  to jupyter note book
 ## 1. First click select a dataset 
 ## 2. click "Raw" and copy the url
 ## 3. then go to the jupyter note book 
